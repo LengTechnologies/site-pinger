@@ -9,5 +9,5 @@ jobs:
   ping:
     runs-on: ubuntu-latest
     steps:
-      - name: Curl your site
-        run: curl -s https://yourwebsite.com || echo "Ping failed"
+      - name: Curl leng-tech
+        run: curl -s https://leng-tech.com || echo "Ping failed"
