@@ -2,7 +2,7 @@ name: Ping Website
 
 on:
   schedule:
-    - cron: '*/55 * * * *'  # Every 59 minutes UTC
+    - cron: '*/14 * * * *'  # Every 59 minutes UTC
   workflow_dispatch:        # Allows manual runs from GitHub
 
 jobs:
