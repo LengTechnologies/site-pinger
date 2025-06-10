@@ -1,0 +1,12 @@
+{
+  "name": "site-pinger",
+  "version": "1.0.0",
+  "main": "ping.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ping.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
